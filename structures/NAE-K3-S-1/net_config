@@ -1,0 +1,5 @@
+[[32, 64], 'bneck_k3_r4', ['bneck_k3_r2', 'bneck_k5_r4', 'bneck_k3_r4'], 3, 2]|
+[[64, 128], 'bneck_k3_r2', ['bneck_k3_r4', 'bneck_k3_r4'], 2, 2]|
+[[128, 256], 'bneck_k3_r4', ['bneck_k3_r4', 'bneck_k3_d1', 'bneck_k3_r4', 'bneck_k3_r4', 'bneck_k3_r2'], 5, 2]|
+[[256, 512], 'bneck_k3_r4', ['bneck_k3_r2', 'bneck_k3_r4'], 2, 2]
+net_type: res
